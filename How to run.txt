@@ -1,0 +1,5 @@
+Dependencies to be downloaded:
+npm install react-bootstrap bootstrap react-router-dom @react-pdf/renderer
+
+To ren:
+npm start
